@@ -1,3 +1,4 @@
+<img width="720" height="1608" alt="1000265695" src="https://github.com/user-attachments/assets/4a8c1558-a88a-458e-9df6-7b6f4be198e0" />
 # User manual
 
 [[toc]]
